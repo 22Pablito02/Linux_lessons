@@ -98,7 +98,7 @@ duckluckbreakout@ubuntuserver:~/tmp1$ mkdir /tmp/tmp5
 ```
 ```console
 duckluckbreakout@ubuntuserver:~/tmp1$ mv file4_copy tmp3/tmp4
-duckluckbreakout@ubuntuserver:~/tmp1$ lst tmp3/tmp4
+duckluckbreakout@ubuntuserver:~/tmp1$ ls tmp3/tmp4
 file4_copy
 duckluckbreakout@ubuntuserver:~/tmp1$ mv file5_copy /tmp/tmp5
 duckluckbreakout@ubuntuserver:~/tmp1$ ls /tmp/tmp5
